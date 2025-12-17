@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Rajesh  
+👋 Hi, I’m Subash  
 💻 Software Developer at  Heartsun Technology Pvt. Ltd  
 🎓 Diploma in Information Technology graduate  
 📚 Pursuing BSc (Hons) Computer Systems Engineering  
